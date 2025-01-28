@@ -245,17 +245,6 @@ section #cliffs {
     padding: 2em 0 2em 0;
     text-align: center;
 }
-section #partners .partner {
-    display: inline-block;
-    margin: 0 0.75em;
-    padding: 1.3em 1.5em;
-    background-color: #fff;
-    border-radius: 50%;
-}
-section #partners .partner img {
-    width: 90px;
-    height: 90px;
-}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
